@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin: 10px;
+    padding: 60;
+    justify-content: space-between;
+}
+li{
+    display: flex;
+    padding: 40;
+    margin: 30px;
+    color: white;
+    
+   
+}
+h1{
+    justify-content: center;
+    text-align: center;
+}
+.mainContainer{
+    border: 1px solid black;
+    height: 350px;
+    width: 330px;
+    background-color: black;
+    display: inline;
+}
